@@ -1,9 +1,6 @@
-package com.nicole.springBoot.chapter1.chapter3.taskexecutor;
+package com.nicole.springBoot.chapter3.taskexecutor;
 
-import com.nicole.springBoot.chapter1.chapter3.aware.AwareConfig;
-import com.nicole.springBoot.chapter1.chapter3.aware.AwareService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.core.task.AsyncTaskExecutor;
 
 /**
  * Spring 通过任务执行器TaskExecutor来实现多线程和并发编程。使用ThreaPoolTaskExecutor可实现一个线程池TaskExecutor

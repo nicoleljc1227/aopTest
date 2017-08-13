@@ -1,4 +1,4 @@
-package com.nicole.springBoot.chapter1.chapter3.taskexecutor;
+package com.nicole.springBoot.chapter3.taskexecutor;
 
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import org.springframework.context.annotation.ComponentScan;
